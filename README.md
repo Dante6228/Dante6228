@@ -1,54 +1,47 @@
-# 👋 ¡Hola, soy Dante (Dante6228)!  
-✨ Desarrollador web, diseñador, músico y curioso por aprender. (He/Him)  
+**CEO y Fundador de Nuvii (Cloud POS/ERP) | Infraestructura Cloud, Sistemas Distribuidos, Zero Trust y Full-Stack Web Dev**
 
-🖥️ **Apasionado por la tecnología** 🎹 **Pianista y compositor** 🎨 **Diseñador en proceso**
-
----
-
-## 🛠️ Tech Stack  
-- 💻 **Frontend:** HTML, CSS, JavaScript  
-- 📦 **Backend & DB:** XAMPP, MySQL, aprendiendo Docker  
-- 🎨 **Diseño:** Photoshop, Illustrator, Premiere  
+Diseño, construyo y programo software enfocado en resolver problemas críticos de negocio. Mi enfoque es simple: ir directo a la raíz del problema y solucionarlo de la manera más segura y sin fricciones para el usuario final, es decir, no busco hacer una interfaz bonita nada más, sino resolver la operación real de la mejor forma.
 
 ---
 
-## 🌱 Actualmente trabajando en…  
-- 🚀 **Aprendiendo React para desarrollo web**  
-- 📱 **Explorando Android Studio y desarrollo móvil**  
-- 🎵 **Mi primer EP "Dreaming"** *(música instrumental y orquestal, donde me expreso de una forma muy personal)*  
-- 🍸 **Mejorando mis habilidades en mixología y cocina**  
+### Actualmente lidero
+
+- **[Nuvii](https://nuviipos.com) (Fundador, CEO y Arquitecto de Software):** Plataforma SaaS POS/ERP 100% cloud bajo arquitectura Multi-Tenant en tiempo real para el sector gastronómico, este POS incluye facturación CFDI 4.0 automatizada con facturapi, motor de crédito propio y daemons de impresión térmica IoT escritos en Go (Windows/Linux) comunicados vía WebSockets y polling de seguridad.
+- **[Global CPV 73 S.A. de C.V.](https://globalcpv.com.mx) (CTO):** Dirección de infraestructura TI, ciberseguridad corporativa bajo redes Zero Trust (Cloudflare Zero Trust + Google Workspace MDM), desarrollo de sistemas ERP/CRM propietarios para centralización operativa, legal y financiera de la empresa, calculadora de pensión en base a la modalidad 40/10, gestión financiera de clientes, generación de documentos legales como pagarés, contratos, planes de pago y automatización de procesos administrativos.
+- **[Destiny Solutions](https://destinysol.com) (Cofundador y CTO):** Firma privada de ingeniería de software B2B a la medida, aquí lidero la definición de arquitectura, especificaciones técnicas, generación de documentos legales como contratos, convenios, documentos de especificaciones técnicas y desarrollo de plataformas para digitalizar y escalar empresas.
 
 ---
 
-## 🎵 Mis artistas favoritos  
-🎶 Dayglow | FKJ | Joji | Peso Pluma | Junior H | DannyLux | Balu Brigada | Laufey | Luis Miguel | Jinsang | Potsu | Yo :) 
+### Stack e Infraestructura en Producción
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=go,php,js,tailwind,mysql,docker,nginx,linux,cloudflare,ubuntu,git,bash&theme=dark" alt="Tech Stack" />
+</p>
+
+* **Lenguajes:** Go (Golang), PHP (Vanilla / High-Performance), JavaScript (ES6+), SQL, Bash.
+* **Frontend & UI:** Tailwind CSS, HTML5/CSS3, PWAs, WebSockets (Real-Time UI).
+* **Base de Datos:** MariaDB, MySQL (Diseño relacional multi-tenant, optimización y backups automatizados).
+* **Infraestructura, DevOps & Seguridad:** Linux (Ubuntu Server), Docker, Nginx, Apache, DigitalOcean, Cloudflare (WAF, DNS, Zero Trust Tunnels), RBAC granular, despliegues CI/CD.
 
 ---
 
-## ⚡ Fun facts  
-- Soy muy tranquilo, pero me emociono mucho cuando se trata de la música y la tecnología.  
-- Me gusta mucho cantar (aunque lo haga muy mal).  
-- Si agarro confianza, no paro de hablar.  
+### Fuera del código
+
+Cuando no estoy matándome programando estoy tocando el piano, soy pianista y compositor de música neoclásica bajo el nombre artístico de **[Alen Jeynrod](https://open.spotify.com/intl-es/artist/3kzgeiwDoZralvEkk78p5U)**. 
 
 ---
 
-## 🎮 Otros intereses  
-- 📷 **Fotografía y edición** (a veces tomo fotos y las edito en Lightroom)  
-- 🎮 **Juegos indie** (me encantan juegos con buena historia y música increíble)  
-- 🎭 **Psicología y Filosofía** (me gusta analizar la mente y la vida 🤯)
-- 🎵 **Componer música** (Me encanta sentarme al piano y comenzar a crear una bonita melodía)
+### Contacto y Redes
 
----
+¡Abierto a conversar sobre cualquier tema, alianzas, desarrollo de software o cualquier tipo de implementación!
 
-## 📬 Encuéntrame aquí  
-📷 [Instagram](https://instagram.com/dante0937)  
-🐦 [Twitter/X](https://twitter.com/dante6228)  
-🎵 [Spotify](https://open.spotify.com/intl-es/artist/3kzgeiwDoZralvEkk78p5U)
+**Profesional & Ecosistema B2B:**
+- **LinkedIn:** [Dante Alejandro Viveros Rodríguez](https://www.linkedin.com/in/dante-viveros/)
+- **Wellfound:** [Perfil en Wellfound](https://wellfound.com/u/dante-alejandro-viveros-rodriguez-1)
+- **F6S:** [Perfil de Fundador en F6S](https://www.f6s.com/dante6228)
+- **G2 (Nuvii POS):** [Nuvii POS en G2](https://www.g2.com/products/nuvii-pos/reviews)
 
----
-
-## 📊 GitHub Stats  
-![Dante's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dante6228&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dante6228&layout=compact&theme=radical)  
-
-✨ *Si llegaste hasta aquí, probablemente deberíamos ser amigos.* ☕🚀  
+**Música & Redes Sociales:**
+- **Spotify (Alen Jeynrod):** [Escuchar en Spotify](https://open.spotify.com/intl-es/artist/3kzgeiwDoZralvEkk78p5U)
+- **Instagram:** [@by.dan._](https://instagram.com/by.dan._/)
+- **X / Twitter:** [@dante6228](https://twitter.com/dante6228)
