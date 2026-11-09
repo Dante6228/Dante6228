@@ -36,6 +36,7 @@ Cuando no estoy matándome programando estoy tocando el piano, soy pianista y co
 ¡Abierto a conversar sobre cualquier tema, alianzas, desarrollo de software o cualquier tipo de implementación!
 
 **Profesional & Ecosistema B2B:**
+- **Web personal:** [Dante Alejandro Viveros Rodríguez](https://bydan.art)
 - **LinkedIn:** [Dante Alejandro Viveros Rodríguez](https://www.linkedin.com/in/dante-viveros/)
 - **Wellfound:** [Perfil en Wellfound](https://wellfound.com/u/dante-alejandro-viveros-rodriguez-1)
 - **F6S:** [Perfil de Fundador en F6S](https://www.f6s.com/dante6228)
